@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FigureEColori</string>
+    <string name="touch_button">Tocca un pulsante</string>
+    <string name="circle">Cerchio</string>
+    <string name="square">Quadrato</string>
+    <string name="triangle">Triangolo</string>
+    <string name="circle_desc">Cerchio Rosso</string>
+    <string name="square_desc">Quadrato Verde</string>
+    <string name="triangle_desc">Triangolo Blu</string>
+</resources>
