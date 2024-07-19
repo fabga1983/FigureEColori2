@@ -1,2 +1,2 @@
-# FigureEColori progetto creato daFabio Gallo Matricola 033400119
+# FigureEColori progetto creato da Fabio Gallo Matricola 033400119
  
